@@ -47,7 +47,7 @@ hr {
     color: white;
     padding: 16px 20px;
     margin: 8px 0;
-    border: none;
+    border: 1;
     cursor: pointer;
     width: 100%;
     opacity: 0.9;
